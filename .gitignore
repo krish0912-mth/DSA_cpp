@@ -1,0 +1,19 @@
+# Ignore all .exe files
+*.exe
+
+# Ignore all compiled files
+*.out
+*.o
+
+# Ignore all log files
+*.log
+
+# Ignore VS Code folder
+.vscode/
+
+# Ignore backup/temp files
+*~
+*.tmp
+
+# Ignore Mac system file
+.DS_Store
