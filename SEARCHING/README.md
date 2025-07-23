@@ -4,9 +4,6 @@ This folder contains searching algorithm implementations as per the DSA roadmap.
 
 ## ✅ Algorithms Implemented:
 
-### 1. Linear Search
-- Search in unsorted array
-
 ### 2. Binary Search
 - Binary search on ascending sorted array
 - Binary search on descending sorted array
