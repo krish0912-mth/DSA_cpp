@@ -1,14 +1,28 @@
-# 📁 SEARCHING - DSA C++ Practice
+# 🔍 SEARCHING - DSA in C++
 
-This folder contains searching algorithm implementations as per the DSA roadmap.
+This folder contains my implementation of searching algorithms using C++.
 
-## ✅ Algorithms Implemented:
+## ✅ Completed:
 
-### 2. Binary Search
-- Binary search on ascending sorted array
-- Binary search on descending sorted array
+### 🔹 Binary Search
+- Binary Search on Ascending Array
+- Binary Search on Descending Array
+- First Occurrence of a Target
+- Last Occurrence of a Target
+- Search Insert Position (Insert Target if Not Present)
+
+## ⏳ Pending:
+- Linear Search (coming soon)
 
 ## 📌 Notes:
-- Each code is implemented in C++ and follows clean, readable structure.
-- Covered multiple variations to build strong logic base.
+- Covered real interview-level binary search variations.
+- Clean and modular code written in C++.
+- Each code is properly commented and structured.
+- More variations will be added as I go further.
+
+---
+
+## 🌐 My GitHub Profile:
+[https://github.com/krish0912-mth](https://github.com/krish0912-mth)
+
 
